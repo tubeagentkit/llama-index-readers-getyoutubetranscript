@@ -10,7 +10,7 @@ It has the same `load_data(ytlinks=[...])` call as `YoutubeTranscriptReader`, bu
 pip install llama-index-readers-getyoutubetranscript
 ```
 
-Get an API key at [getyoutubetranscript.com/dashboard](https://getyoutubetranscript.com/dashboard) (free tier included):
+Get an API key at [getyoutubetranscript.com/developers](https://getyoutubetranscript.com/developers) (free tier included):
 
 ```bash
 export GETYOUTUBETRANSCRIPT_API_KEY=sk_live_...
